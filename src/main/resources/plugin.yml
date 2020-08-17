@@ -1,0 +1,5 @@
+name: SecondPlugin
+version: ${project.version}
+main: me.sniffieftw.secondplugin.secondplugin.SecondPlugin
+api-version: 1.16
+description: my second plugin
